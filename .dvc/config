@@ -1,0 +1,4 @@
+[core]
+    remote = rahul
+['remote "rahul"']
+    url = ../tmp
